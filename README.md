@@ -1,2 +1,2 @@
 # Recommendation-system
-Online retail recommendation system based on Customer ID
+Developed an online retail recommendation system that suggests the top 10 products for each customer based on their purchase history and Customer ID.
