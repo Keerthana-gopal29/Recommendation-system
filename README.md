@@ -43,11 +43,11 @@ Designed as a **portfolio-ready project** for **Data Analyst / Data Science inte
 
 ## 🚀 How to Run
 
-''' bash
+``` bash
 git clone https://github.com/keerthana-gopal29/online-retail-recommendation-system.git
 pip install pandas numpy matplotlib seaborn scipy
 Run the notebook and input a valid **CustomerID** to get recommendations.
-'''
+```
 
 ## 📁 Repository Structure
 
