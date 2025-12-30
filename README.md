@@ -54,7 +54,6 @@ Run the notebook and input a valid **CustomerID** to get recommendations.
 ```
 📦 Online-Retail-Recommendation-System
  ┣ 📜 Recommendation_System.ipynb
- ┣ 📜 OnlineRetail.csv
  ┣ 📜 README.md
 ```
 
