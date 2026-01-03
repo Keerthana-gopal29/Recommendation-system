@@ -67,15 +67,6 @@ Run the notebook and input a valid **CustomerID** to get recommendations.
 
 ---
 
-## 👩‍💻 Author
-
-**Keerthana Gopal**  
-Aspiring Data Analyst | Data Science  
-
-🌱 *“Be your own sunshine”*
-
----
-
 ⭐ If you like this project, feel free to **star the repository**!
 
 
